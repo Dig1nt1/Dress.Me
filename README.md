@@ -18,7 +18,7 @@ Dress.Me is a fast, lightweight, and user-friendly mobile application for seamle
 ![Product Page](https://github.com/Dig1nt1/Dress.Me/blob/main/Productpage.jpg)
 
 ### 🛒 Payment Page  
-![Payment Page](https://github.com/Dig1nt1/Dress.Me/blob/main/PaymentPage.jpg)
+![Payment Page](https://github.com/Dig1nt1/Dress.Me/blob/main/Paymentpage.jpg)
 
 # 📱 Shopping Store App  
 Download the latest version of the Shopping Store App:  
